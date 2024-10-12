@@ -25,8 +25,8 @@
 
 .cover__image{
   margin: 0;
-  width: 984px;
-  height: 615px;
+  width: calc(100% - 296px);
+  padding-bottom: calc(100% - 296px);
   background-image: url(../images/__image.jpg);
   background-size: cover;
   background-position: center;
