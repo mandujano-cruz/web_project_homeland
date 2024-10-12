@@ -1,4 +1,4 @@
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
   .header{
     display: flex;
     justify-content: center;
@@ -89,7 +89,7 @@
   }
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 544px){
   .header__icon{
     width: 188px;
   }
