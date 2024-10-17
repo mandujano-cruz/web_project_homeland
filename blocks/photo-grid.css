@@ -7,6 +7,10 @@
   gap: 16px;
 }
 
+.photo-grid__title{
+  display: none;
+}
+
 .photo-grid__item{
   /* max-width: 100%;
   max-height: 100%; */
