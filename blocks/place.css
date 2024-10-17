@@ -79,10 +79,15 @@
   background: linear-gradient(90deg, #0278FE 0%, #003A7B 99.98%);
   width: 289px;
   height: 48px;
-  color: #FFF;
   font-size: 18px;
   font-weight: 600;
   line-height: 21.78px;
+  text-decoration: none;
+  color: #FFF;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .place__button:hover{
@@ -90,12 +95,18 @@
   background: linear-gradient(90deg, rgba(2, 120, 254, 0.25) 0%, rgba(0, 58, 123, 0.25) 99.98%);
   width: 289px;
   height: 48px;
-  color: #FFF;
   font-size: 18px;
   font-weight: 600;
   line-height: 21.78px;
+  text-decoration: none;
+  color: #FFF;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .place__link{
   text-decoration: none;
+  color: #FFF;
 }
